@@ -1,0 +1,7 @@
+{
+  "name": "Art_02_XP Poetry Hyperlink_B",
+  "description": "An optimized XP-themed poetic environment with webcam-based gesture control and dynamic p5.js backgrounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
